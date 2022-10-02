@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
+
+<song_list>
+    <heading>Song List</heading>
+    <song>
+        <title>Mess</title>
+        <Artist>Noah Kahan</Artist>
+        <Released>2019</Released>
+
+        <Genre>
+            Alternative
+        </Genre>
+
+        <Genre>
+            Indie
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Pursuit of Happiness (Nightmare)</title>
+        <Artist>Kid Cudi</Artist>
+        <Released>2009</Released>
+
+        <Genre>
+            Hip-Hop
+        </Genre>
+
+        <Genre>
+            Rap
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>3 Nights</title>
+        <Artist>Dominic Fike</Artist>
+        <Released>2018</Released>
+
+        <Genre>
+            Electropop
+        </Genre>
+
+        <Genre>
+            Singer-Songwriter
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>SUVs (Black on Black)</title>
+        <Artist>Jack Harlow</Artist>
+        <Released>2021</Released>
+        <Genre>
+            Hip-Hop
+        </Genre>
+        <Genre>
+            Rap
+        </Genre>
+    </song>
+    <song>
+        <title>Heat Waves</title>
+        <Artist>Glass Animals</Artist>
+        <Released>2020</Released>
+
+        <Genre>
+            Psychedelic pop
+        </Genre>
+
+        <Genre>
+            R&amp;B
+        </Genre>
+
+        <Genre>
+            Pop rock
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Mine</title>
+        <Artist>Bazzi</Artist>
+        <Released>2017</Released>
+
+        <Genre>
+            electro-R&amp;B
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Waves</title>
+        <Artist>Fiji Blue</Artist>
+        <Released>2020</Released>
+
+        <Genre>
+            Alternative/Indie
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Mr. Rager</title>
+        <Artist>Kid Cudi</Artist>
+        <Released>2010</Released>
+
+        <Genre>
+            R&amp;B
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>24 / 7 / 365</title>
+        <Artist>Surfaces</Artist>
+        <Released>2017</Released>
+
+        <Genre>
+            R&amp;B
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Cross My Mind</title>
+        <Artist>A R I Z O N A</Artist>
+        <Released>2017</Released>
+
+        <Genre>
+            Alternative/Indie
+        </Genre>
+
+        <Genre>
+            Pop
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>rock+roll</title>
+        <Artist>Eden</Artist>
+        <Released>2016</Released>
+
+        <Genre>
+            Indie pop
+        </Genre>
+
+        <Genre>
+            Alternative rock
+        </Genre>
+
+
+    </song>
+    <song>
+        <title>Location</title>
+        <Artist>Khalid</Artist>
+        <Released>2017</Released>
+
+        <Genre>
+            Alternative R&amp;B
+        </Genre>
+
+        <Genre>
+            Contemporary R&amp;B
+        </Genre>
+
+
+    </song>
+</song_list>

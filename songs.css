@@ -1,0 +1,50 @@
+
+song_list {
+    text-align: center;
+}
+
+heading {
+    font-size: 30px;
+    padding: 20px;
+    display: block;
+
+}
+
+song {
+    display: block;
+    background-color: #2290ff;
+    padding: 30px 20px;
+    margin: 2% 20%;
+    border-radius: 20px;
+
+}
+
+title {
+    font-size: 30px;
+    color: white;
+    float: left;
+    font-weight: bold;
+    display: block;
+}
+
+Artist {
+    color: rgba(255, 255, 255, 0.8);
+    padding-top: 20px;
+    margin-top: 20px;
+    display: block;
+    width: fit-content;
+}
+
+Released {
+    float: right;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: min-content;
+    color: white;
+
+}
+
+Genre {
+    width: min-content;
+    color: white;
+}
