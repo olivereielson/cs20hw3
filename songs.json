@@ -1,0 +1,117 @@
+{
+  "song_list": {
+    "heading": "Song List",
+    "song": [
+      {
+        "title": "Mess",
+        "Artist": "Noah Kahan",
+        "Released": 2019,
+        "Genre": [
+          "Alternative",
+          "Indie",
+          "Pop"
+        ]
+      },
+      {
+        "title": "Pursuit of Happiness (Nightmare)",
+        "Artist": "Kid Cudi",
+        "Released": 2009,
+        "Genre": [
+          "Hip-Hop",
+          "Rap"
+        ]
+      },
+      {
+        "title": "3 Nights",
+        "Artist": "Dominic Fike",
+        "Released": 2018,
+        "Genre": [
+          "Electropop",
+          "Singer-Songwriter"
+        ]
+      },
+      {
+        "title": "SUVs (Black on Black)",
+        "Artist": "Jack Harlow",
+        "Released": 2021,
+        "Genre": [
+          "Hip-Hop",
+          "Rap"
+        ]
+      },
+      {
+        "title": "Heat Waves",
+        "Artist": "Glass Animals",
+        "Released": 2020,
+        "Genre": [
+          "Psychedelic pop",
+          "R&amp;B",
+          "Pop rock"
+        ]
+      },
+      {
+        "title": "Mine",
+        "Artist": "Bazzi",
+        "Released": 2017,
+        "Genre": [
+          "electro-R&amp;B",
+          "Pop"
+        ]
+      },
+      {
+        "title": "Waves",
+        "Artist": "Fiji Blue",
+        "Released": 2020,
+        "Genre": [
+          "Alternative/Indie",
+          "Pop"
+        ]
+      },
+      {
+        "title": "Mr. Rager",
+        "Artist": "Kid Cudi",
+        "Released": 2010,
+        "Genre": [
+          "R&amp;B",
+          "Pop"
+        ]
+      },
+      {
+        "title": "24 / 7 / 365",
+        "Artist": "Surfaces",
+        "Released": 2017,
+        "Genre": [
+          "R&amp;B",
+          "Pop"
+        ]
+      },
+      {
+        "title": "Cross My Mind",
+        "Artist": "A R I Z O N A",
+        "Released": 2017,
+        "Genre": [
+          "Alternative/Indie",
+          "Pop"
+        ]
+      },
+      {
+        "title": "rock+roll",
+        "Artist": "Eden",
+        "Released": 2016,
+        "Genre": [
+          "Indie pop",
+          "Alternative rock"
+        ]
+      },
+      {
+        "title": "Location",
+        "Artist": "Khalid",
+        "Released": 2017,
+        "Genre": [
+          "Alternative R&amp;B",
+          "Contemporary R&amp;B"
+        ]
+      }
+    ]
+  }
+}
