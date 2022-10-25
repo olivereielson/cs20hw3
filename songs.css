@@ -1,49 +1,39 @@
 
-song_list {
+body{
+    background-color: #0b0c10;
+    font-family: sans-serif;
+}
+
+#json_string{
+    color: #c5c6c8;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: #202833;
+}
+h1{
+    margin: 10px;
+    color: #202833;
+}
+#table2{
+    margin: 30px;
+}
+
+#selector{
     text-align: center;
 }
+table tr td {
+    padding: 15px;
+    border: 1px solid;
 
-heading {
-    font-size: 30px;
+}
+
+table{
+    background-color: #202833;
+    color: #c5c6c8;
+    border-radius: 25px;
+    margin: 30px;
     padding: 20px;
-    display: block;
-
 }
 
-song {
-    display: block;
-    background-color: #2290ff;
-    padding: 30px 20px;
-    margin: 2% 20%;
-    border-radius: 20px;
 
-}
-
-title {
-    font-size: 30px;
-    color: white;
-    float: left;
-    font-weight: bold;
-    display: block;
-}
-
-Artist {
-    color: rgba(255, 255, 255, 0.8);
-    padding-top: 20px;
-    margin-top: 20px;
-    display: block;
-    width: fit-content;
-}
-
-Released {
-    float: right;
-    padding: 10px;
-    margin-bottom: 20px;
-    width: min-content;
-    color: white;
-}
-
-Genre {
-    width: min-content;
-    color: white;
-}
